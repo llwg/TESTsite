@@ -1,0 +1,9 @@
+[submodule "media"]
+	path = media
+	url = git@github.com:llwg/TESTSITEMEDIA.git
+[submodule "site_main"]
+	path = site_main
+	url = git@github.com:llwg/TESTMAINSITE.git
+[submodule "site_archive"]
+	path = site_archive
+	url = git@github.com:llwg/TESTARCHIVESITE.git
