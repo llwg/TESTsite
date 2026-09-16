@@ -2,7 +2,6 @@
 ~~~
 date 2026.09
 filmtype narrative
-vimeo n/a
 thumb 2
 four_pics 1 3 4 5 6 7
 runtime_minutes 12
@@ -15,7 +14,6 @@ SAMPLE TEXT: 1966, when designers at Letraset and James Mosley, the librarian at
 ~~~
 date 2026.04
 filmtype narrative
-vimeo n/a
 thumb 1
 four_pics 2 3 4 5
 runtime_minutes 120
@@ -123,7 +121,6 @@ Animus is inspired by Taiwanese superstition and Greek mythology. While painting
 ## a rolling stone gathers no moss
 ~~~
 md   Digital, Blackmagic HD
-yt   pgWBt0oGZjU
 filmtype experimental
 vimeo 1026755148/1effe7e622
 thumb 1
