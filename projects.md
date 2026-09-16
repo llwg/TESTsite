@@ -1,8 +1,54 @@
+## car story
+~~~
+date 2026.09
+filmtype narrative
+vimeo n/a
+thumb 2
+four_pics 1 3 4 5 6 7
+runtime_minutes 12
+background narrative film made as part of video installation at Second Street Gallery
+~~~
+SAMPLE TEXT: 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing
+
+
+## Stories of the Sea
+~~~
+date 2026.04
+filmtype narrative
+vimeo n/a
+thumb 1
+four_pics 2 3 4 5
+runtime_minutes 120
+background Feature film co-directed in spring of 2026, written by Kuei-Lan Anna Ma. In post production.
+~~~
+Set in 20th-century Taiwan, an era when parenting was often strict and traditional, Guxin—a 26-
+year-old city woman—has just lost the mother she both loved and resisted. Newly unmoored and
+tasting a fragile sense of freedom, she sets out on her first journey to Pengzhen Island, a place she never had the chance to visit in her youth. There, she breaks off an arranged
+engagement and falls deeply in love with Haiwang, a gentle, enigmatic fisherman-photographer.
+But reality intervenes: Guxin must return to the city, and Haiwang to the sea. They part with an
+unwavering hope of finding each other again. Back home, news of a shipwreck announces Haiwang’s death. Guxin buries her grief in silence. But one day, on the street, she sees him again. Alive.
+
+## home remedies
+~~~
+date 2026.01
+filmtype experimental
+vimeo 1184294357/cac44f2270
+thumb 3
+four_pics 2 9 10 6 4 11
+runtime_minutes 10
+background Experimental film shot with iphone during Yeyin Residency in Taichung, Taiwan December 2025 - January 2026
+~~~
+Lost things in a dark river, a hand combing through it. A child on the search for order does it in secret to preserve its sacredness. Time precipitates. It gathers in low places. But the juvenile rituals remain. Praying morphs into home remedies made with glistening wax apples before finally taking form through the iris of the camera, where another system of faith is constructed.
+
 ## NAPA
 ~~~
 date 2025.04
 vimeo 1078418083
 filmtype narrative
+thumb 1
+four_pics 2 9 10 1 6 3
+runtime_minutes 35
+background Undergraduate thesis film that was showcased in Ruffin Gallery as a part of the show the hand is no one's.
 ~~~
 Three strangers meet in a park. Their conversation digresses, esses and flows. Are they evading an ending? Their imagination can only take them so far, but still, they take flight, hoping to suspend each other, or themselves, in story. A fisherman. A deer. A cabbage. Time multiplies and expands to hold their stories, but only for so long.
 
@@ -10,6 +56,7 @@ Three strangers meet in a park. Their conversation digresses, esses and flows. A
 ~~~
 date   2024.10
 filmtype narrative
+runtime_minutes 2
 ~~~
 Two traveling strangers, Didi and Gogo, miss their train despite pressing matters waiting for them at the end of their journey. They find themselves in a waiting room, where a shared moment blossoms into an unexpected connection.
 
@@ -20,6 +67,9 @@ date     2022.12
 md     Digital, Blackmagic HD
 yt     OAnNDhukNuo
 filmtype narrative
+thumb 19
+four_pics 2 6 11 9
+runtime_minutes 8
 ~~~
 How do we learn to do bad things? And how does our knowledge of evil inform our adolescence? These questions are explored in this film through learned transgressions. In a way, by learning how to be cruel, a girl grows up.
 
@@ -29,26 +79,32 @@ md   16-mm Color Negative Film
 yt   qG45tsNTZmU
 date_display Spring 2022
 filmtype experimental
+runtime_minutes 4
 ~~~
 Shorts shot on 16 mm film for Kevin Everson’s introduction to Film class where bolex cameras were used to explore experimental storytelling. Three vignettes: *Brunch*, *A Kettle Boils While being Watched*, and *Haiku*.
 
 ## Gui Zhou (Stories of the Return)
 ~~~
-date 2024.6
+date 2024.8
 id   guizhou
 filmtype narrative
-vimeo 1095413608/ca8467b9e9
+vimeo 1026755148/1effe7e622
+thumb 9
+four_pics 10 1 11 12 2 4
+runtime_minutes 48
+background Written and shot in Taipei, Taiwan in the summer of 2024. GuiZhou is a project that has been greatly supported by the University of Virginia, having received three significant grants: the University Undergraduate Award for Arts Project, the Miller Arts Rising 4th Year Award, and the Echols Ingrassia Research Fund. The film premiered at the 48th Asian American International Film Festival in 2025.
 ~~~
 American film director Yu Ge travels to Taipei, Taiwan, to shoot a script that her mother was never able to complete before her passing, in hopes of gaining a better understanding of her mother’s homeland and heritage. Two stories of searching are told in parallel—the present-day story of a director and the film within her film, set during the 1980s Taiwan economic boom. As generational, cultural, and geographical gaps are tested, Yu Ge's tenuous relationships with her actors and her late mother are pushed to the brink.
 
-Written and shot in Taipei, Taiwan in the summer of 2024. *GuiZhou* is a project that has been greatly supported by the University of Virginia, having received three significant grants: the University Undergraduate Award for Arts Project, the Miller Arts Rising 4th Year Award, and the Echols Ingrassia Research Fund.
-
-## A Series of Experiments on Time and Place
+## timeplace
 ~~~
 date 2024.9
 id series-of-experiments
-title_sidebar A Series of Experiments...
+title_sidebar timeplace
 filmtype experimental
+thumb 2
+four_pics 1 3
+runtime_minutes 10
 ~~~
 An experimental series exploring memory, time, and distance, through conversation and performance. How do we in a digital age connect and reminisce? Plays with the use of greenscreen and mirrors.
 
@@ -57,6 +113,10 @@ An experimental series exploring memory, time, and distance, through conversatio
 date 2024.5
 md   Digital, Blackmagic HD
 filmtype narrative
+vimeo 1026755148/1effe7e622
+thumb 1
+four_pics 2 5 1 8 3 4
+runtime_minutes 10
 ~~~
 Animus is inspired by Taiwanese superstition and Greek mythology. While painting in a field, Daphne, an uninspired artist, is surprised by a mysterious Red figure that has something to show her. Animus explores the ways in which we bar ourselves from reaching our true potential and the experience of embracing the process.
 
@@ -65,8 +125,14 @@ Animus is inspired by Taiwanese superstition and Greek mythology. While painting
 md   Digital, Blackmagic HD
 yt   pgWBt0oGZjU
 filmtype experimental
+vimeo 1026755148/1effe7e622
+thumb 1
+runtime 10 min
+four_pics 3 4 10 7 9
+runtime_minutes 10
+background Made in the summer of 2023 at Mountain Lake Art Residency in Pembroke, Virginia
 ~~~
-a rolling stone gathers no moss addresses collective art-making through resonant conversations and lingering stretches of shared imagination. At the secluded Biological Research Station at Pembroke, Virginia, an analogous relationship between creative and scientific processes surfaced. It was one of trial and error, and at times, much frustration. When things come to a halt, one turns to community, conversing and exchanging ideas until it feels right to venture out again. And the effect is often a rippling one. The flow of inspiration from person to person, like the complex ecological networks that surround us, underscore the symbiotic relationship between the creator of the film and the many creators within the film. Between the artists, fantastical visions are transposed and realized, while ideas of transparency, authorial voice, and “candidness” are stretched, amplified, and questioned. This film was first screened at Mountain Lake at our student Artlab Showcase and was officially selected for the Down East Flick Fest in Greenville, North Carolina where it will be screened in late November.
+a rolling stone gathers no moss addresses collective art-making through resonant conversations and lingering stretches of shared imagination. At the secluded Biological Research Station at Pembroke, Virginia, an analogous relationship between creative and scientific processes surfaced. It was one of trial and error, and at times, much frustration. When things come to a halt, one turns to community, conversing and exchanging ideas until it feels right to venture out again. And the effect is often a rippling one. The flow of inspiration from person to person, like the complex ecological networks that surround us, underscore the symbiotic relationship between the creator of the film and the many creators within the film. Between the artists, fantastical visions are transposed and realized, while ideas of transparency, authorial voice, and “candidness” are stretched, amplified, and questioned. This film was first screened at Mountain Lake at our student Artlab Showcase, and later shown in Ruffin Group Exhibition in November.
 
 ## crow's mouth
 ~~~
@@ -75,6 +141,7 @@ md    Digital, Pocket Blackmagic 6k
 yt    FReeI0MKfI0
 id    crows-mouth-film
 filmtype narrative
+runtime_minutes 5
 ~~~
 Famous film director Sage Liu is caught off guard at her interview regarding her newest project, a biopic of her mother, depicting their complicated relationship and her difficult upbringing. So what happens when her mom shows up at her studio unannounced?
 
@@ -182,3 +249,19 @@ type writing
 date_display     Spring 2022
 type writing
 ~~~
+
+# shows
+
+## the womb is an altar of all the things i miss
+~~~
+type show
+title_display the womb is an altar of&nbsp;all&nbsp;the&nbsp;things&nbsp;i&nbsp;miss
+~~~
+duo film and multimedia installation gallery show with Autumn Samone
+
+## the hand is no one’s by JAR
+~~~
+type show
+id the-hand-is-no-ones
+~~~
+Undergraduate thesis show with Autumn Samone and Rian Gonzalez
