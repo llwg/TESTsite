@@ -63,7 +63,7 @@ Two traveling strangers, Didi and Gogo, miss their train despite pressing matter
 ~~~
 date     2022.12
 md     Digital, Blackmagic HD
-yt     OAnNDhukNuo
+vimeo 1028021506/3e3bd26be9
 filmtype narrative
 thumb 19
 four_pics 2 6 11 9
@@ -86,7 +86,7 @@ Shorts shot on 16 mm film for Kevin Everson’s introduction to Film class where
 date 2024.8
 id   guizhou
 filmtype narrative
-vimeo 1026755148/1effe7e622
+vimeo 1095413608
 thumb 9
 four_pics 10 1 11 12 2 4
 runtime_minutes 48
@@ -111,7 +111,7 @@ An experimental series exploring memory, time, and distance, through conversatio
 date 2024.5
 md   Digital, Blackmagic HD
 filmtype narrative
-vimeo 1026755148/1effe7e622
+vimeo 1034315379
 thumb 1
 four_pics 2 5 1 8 3 4
 runtime_minutes 10
