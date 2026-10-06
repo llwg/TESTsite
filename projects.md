@@ -1,14 +1,24 @@
-## car story
+## car dreams
 ~~~
 date 2026.09
 filmtype narrative
-thumb 2
-four_pics 1 3 4 5 6 7
-runtime_minutes 12
-background narrative film made as part of video installation at Second Street Gallery
+thumb 8
+four_pics 1 2 10 7 6 5
+runtime_minutes 13
+background Written and shot in September 2026 as a part of the Aunspaugh Fellowship. This narrative film was made as part of the automotive video installation show 'en route' at Second Street Gallery in Charlottesville, Virgnia.
 ~~~
-SAMPLE TEXT: 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing
+Olivia leaves her chaotic life behind and drives homeward, hoping to see her dying dog one last time, but she experiences a breakdown instead, leaving her stranded with unexpected company. 
 
+## the heart is an engine
+~~~
+date 2026.09
+filmtype narrative
+thumb 4
+four_pics 2 3 1 7 9 8
+runtime_minutes 9
+background Over the course of two months, Li documented different people's vehicular relationships.  This work was made as part of the automotive video installation show 'en route' at Second Street Gallery in Charlottesville, Virgnia.
+~~~
+An observational film exploring the relationships between people and their vehicles, centered around the artist’s ongoing connection with a local car mechanic. How has the car shaped our relationship with place and distance? What do our tools influence our perception of the world around us?
 
 ## Stories of the Sea
 ~~~
