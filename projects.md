@@ -1,13 +1,58 @@
+## My Dearest
+~~~
+date 2026.11
+filmtype narrative
+thumb 4
+four_pics 1 5 6 11 10 7
+runtime_minutes 10
+background A letter to Ivy creek based on interviews conducted on-site, meditating on the architectural history of Historic River View farmhouse and its role in education in the region prior to desegregation. A film responding to the ecological ethos that had sustained the site since the late 19th century—what might the landscape of our collective future look like?
+~~~
+My Dearest,
+
+Each sun up we pace the house, the light chasing the backs of our necks. I am an uneasy guest, looking at the corners for a break in continuity. I visited Charlottesville with the intention of trying to find a place that was no longer there. But then I decided to visit you.
+
+The ground is softer in this place because of the push and pull. Somehow, I remember the feeling of grandma’s house, which seems to be found here too, on your floors. These days, I keep my attention downward near the color of the carpets, a scab-shaded red. I notice the stratum of your walls are layered with flowers. I wonder if it's an invitation to be less tactful here and to peek out of the windows more.
+
+I glanced out of your window just now, and although my gaze is initially cursory, my eyes begin to fix themselves on the yard slowly collecting leaves below. I think about what happens on farms and fields: people calling out to each other even if they're far away, knowing that you are tending to similar things, even if you're distant.
+
+I began to wonder: when was the first time we had come here? Memory often feels so far ago.
+
+I don't quite remember the particulars of it. I must have been six or so years old. Do you  remember when I was wearing a jacket that was too big for me, arriving on a yellow bus with no seatbelts? I remember there was some kind of natural material that we had to hold. You kept looking over. And we were already searching then, for tracks in your woods. It felt like we were all-encompassed. It felt like we were inventing some place new.
+
+Maybe there are places you know that aren't physically here, but you can feel it moving, over and underneath, what we stand on now. Maybe that place is a window.
+
+I was hesitant to start writing this letter, because self narration is its own kind of formality, but I’ve been trying to ask for more entanglement with the fragility of things. We have been tracking. Me and the others. Last night we were near a coyote den, following the breath of the living. We could see how close we were, but we were also trying to practice not granting ourselves that further desire. To let others have that, that restfulness, the sustained kind.
+
+Then we went downstream, our toes combing through the creek. The water has gotten cold this time of year. It feels like a cleansing. We were talking about preservation and what you'd like our future to look like. Perhaps something open and evergreen. It will take time. And although the world may not be as gentle as it isn’t, take your time to keep that carefulness, looking out for the small, itty bitty things.
+
+Once, again.
+
+
+## SWOOP
+~~~
+date 2026.10
+filmtype experimental
+thumb 10
+four_pics 4 1 9 6
+runtime_minutes 2
+background experimental two-channel film
+on show at Second Street Gallery as a part of 'en route' video installation
+
+single_column_stills YES
+~~~
+Surface as both metal and skin as the wushu drunken sword form is juxtaposed with drag racing footage at Dinwiddie Motorsports park. Exploring how technology mediates our experiences of intimacy and male performativity in a culture that has historically feminized Asian male identities.
+
+
 ## car dreams
 ~~~
 date 2026.09
 filmtype narrative
-thumb 8
+thumb 12
 four_pics 1 2 10 7 6 5
 runtime_minutes 13
 background Written and shot in September 2026 as a part of the Aunspaugh Fellowship. This narrative film was made as part of the automotive video installation show 'en route' at Second Street Gallery in Charlottesville, Virgnia.
 ~~~
-Olivia leaves her chaotic life behind and drives homeward, hoping to see her dying dog one last time, but she experiences a breakdown instead, leaving her stranded with unexpected company. 
+Olivia leaves her chaotic life behind and drives homeward, hoping to see her dying dog one last time, but she experiences a breakdown instead, leaving her stranded with unexpected company.
 
 ## the heart is an engine
 ~~~
@@ -272,3 +317,25 @@ type show
 id the-hand-is-no-ones
 ~~~
 Undergraduate thesis show with Autumn Samone and Rian Gonzalez
+
+## Once, Again  | Sculptural Projections
+~~~
+thumb 1
+four_pics 6 3 4 2 11 8
+type show
+id the-hand-is-no-ones
+~~~
+November 2026 Historic River View Farm and Ivy Creek Natural Area
+On-site installation in collaboration with Autumn Samone
+background Projection mapping onto Barn surface at Historic River View Farm along with three site-specific sculptural installations.
+
+## en route | duo show
+~~~
+thumb 37
+four_pics 24 11 33 30 32 28
+type show
+id the-hand-is-no-ones
+~~~
+October 2026 Second Street Gallery in Charlottesville, Virginia
+in collaboration with Reese Robers
+background Five films on view with rotating audio loop. The American dream has remained automotive: relationships between body and vehicle, through the lens of performance, labor, pleasure, and dysfunction.

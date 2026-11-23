@@ -73,6 +73,9 @@ async function rename_stills() {
 	const changes = []
 
 	for (const [short, xs] of Object.entries(groups)) {
+		if (short === 'misc') {
+			continue
+		}
 		const [not_nums, nums] = xs.partition(x => isNaN(x.n))
 		nums.sort((a, b) => a.n - b.n)
 		let i = 1
